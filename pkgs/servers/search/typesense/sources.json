@@ -13,7 +13,7 @@
       "arch": "darwin-amd64",
       "hash": "sha256-M2yUAto7KlNY8zswSXqVwH120QV8OrGljobbZkjUSoQ="
     },
-    "aarch64-apple-darwin": {
+    "aarch64-darwin": {
       "arch": "darwin-amd64",
       "hash": "sha256-M2yUAto7KlNY8zswSXqVwH120QV8OrGljobbZkjUSoQ="
     }
